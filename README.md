@@ -1,1 +1,4 @@
-# reinforcement-learning-game
+# Reinforcement-Learning-Game
+
+Requirements:
+
